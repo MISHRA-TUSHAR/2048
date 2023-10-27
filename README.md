@@ -1,4 +1,4 @@
-# two_zero_four_eight
+# 2048 Game
 
 A new Flutter project.
 
